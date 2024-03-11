@@ -1,0 +1,16 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Python Debugger: Main File with Arguments",
+			"type": "debugpy",
+			"request": "launch",
+			"program": "src/main.py",
+			"args": [
+				"test",
+				"with space"
+			],
+			"console": "integratedTerminal"
+		}
+	]
+}
